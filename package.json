@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "esm": "^3.2.25",
+    "fs": "0.0.1-security",
+    "node-cron": "^3.0.0"
+  },
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "Some Hack",
+  "main": "count.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  }
+}
