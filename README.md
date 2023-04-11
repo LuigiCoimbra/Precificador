@@ -8,8 +8,8 @@ para obter o melhor preço possivel e ficar pareo com a competição
 ```
 Node.js
 Versão LTS
-https://nodejs.org/en
 ```
+https://nodejs.org/en
 
 ## Project Setup
 ```
